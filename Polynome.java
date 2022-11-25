@@ -242,7 +242,7 @@ public class Polynome {
 
 
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Polynome p1 = new Polynome(new double[]{1, 2, 3});
         Polynome p2 = new Polynome(new double[]{1, 2, 3, 4});
         Polynome p3 = new Polynome(new double[]{1, 2, 3, 4, 5});
@@ -278,7 +278,7 @@ public class Polynome {
 
         System.out.println(p1.division(p2)[0].multiplication(p2).addition(p1.division(p2)[1]));
 
-    }
+    }*/
 
 
 
